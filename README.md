@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[your_profile_image_url"](https://www.facebook.com/photo?fbid=1513672549390739&set=a.104764840281524) alt="Zamiul Rashid" width="200" height="200">
-</p>
-
 <h1 align="center">👋 Hello, I'm Zamiul Rashid</h1>
 
 <p align="center">
@@ -31,10 +27,6 @@
 ### 📈 GitHub Stats
 
 [![Zamiul Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
-
-### 🛠️ Recent Projects
-
-- [Procrastination Detector](https://github.com/yourusername/procrastination-detector): An OpenCV-based application that detects procrastination behavior and provides insights for better productivity.
 
 ### 📬 Get in Touch
 
