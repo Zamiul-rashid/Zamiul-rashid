@@ -34,8 +34,7 @@
 
 ### 🛠️ Recent Projects
 
-- [Procrastination Detector][work in progress](https://github.com/yourusername/procrastination-detector): An OpenCV-based application that detects procrastination behavior and provides insights for better productivity.
-- 
+- [Procrastination Detector](https://github.com/yourusername/procrastination-detector): An OpenCV-based application that detects procrastination behavior and provides insights for better productivity.
 
 ### 📬 Get in Touch
 
