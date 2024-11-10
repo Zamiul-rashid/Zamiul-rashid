@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Zamiul Rashid</h1>
 
 <p align="center">
-  A passionate developer, open-source enthusiast, and lifelong learner.
+  I am a 2nd year Computer science student, computer vision nerd, an open-source enthusiast, and a lifelong learner.
 </p>
 
 <p align="center">
@@ -23,6 +23,7 @@
 ### 🌱 What I'm Learning
 
 - 🧠 Machine Learning and AI
+- 👨🏻‍💻 Robotics and Computer Vision
 
 ### 📈 GitHub Stats
 
@@ -33,9 +34,5 @@
 - LinkedIn: [Zamiul Rashid](https://www.linkedin.com/in/zamiul-rashid-09a178223)
 - Facebook: [Zamiul Rashid](https://www.facebook.com/zamiul.rashid/)
 - Email: zamiulrashid1@gmail.com
-
-### ❤️ Support
-
-If you find my work helpful, consider supporting me by [buying me a coffee](https://www.buymeacoffee.com/yourusername).
 
 Thank you for visiting my GitHub profile! 😊
