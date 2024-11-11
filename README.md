@@ -27,7 +27,8 @@
 
 ### 📈 GitHub Stats
 
-[![Zamiul Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zamiul-rashid&show_icons=true&theme=catppuccin_mocha)
+[![Zamiul Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zamiul-rashid&show_icons=true&theme=catppuccin_mocha)](https://github.com/Zamiul-rashid)
+
 
 ### 📬 Get in Touch
 
