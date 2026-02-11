@@ -11,19 +11,28 @@
 
 ### 💼 Currently Working On
 
-- 🚀 Building amazing projects
-- 📚 Learning new technologies
-- 📖 Writing tech articles
+- 📝 **Thesis** - Fine-tuning Large Language Models (LLMs) with LoRA and PEFT techniques
+- 🌐 **Mongoltori (Student Mars Rover Team)** - Network infrastructure & wireless networking with Ubiquiti gear
+- 🤖 Robotics development with ROS2 and sensor fusion
+- 🔬 Computer vision projects and research
 
-### 🚀 What I'm Skilled In
+### 🚀 Tech Stack & Skills
 
-- 💻 Programming Languages: Python (Amateur)
-- 🧠 OpenCV: Currently exploring and learning
+- **Languages:** Python
+- **AI/ML:** Large Language Models (LLMs), Fine-tuning, LoRA, PEFT, Prompt Engineering
+- **Networking:** Ubiquiti UniFi, Wireless Networks, Network Infrastructure, Computer Networks
+- **Robotics:** ROS2, Sensor Fusion, Robot Control Systems, Gazebo, Webots
+- **3D Modeling & Simulation:** SolidWorks, Gazebo, Webots
+- **Computer Vision:** OpenCV, Image Processing, Object Detection
+- **ML/DL Frameworks:** TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers
+- **Tools & Technologies:** Git, Linux, Jupyter Notebooks, NumPy, Pandas , Docker
+- **Concepts:** Data Structures & Algorithms, Neural Networks, Image Segmentation
 
-### 🌱 What I'm Learning
+### 🌱 Currently Exploring
 
-- 🧠 Machine Learning and AI
-- 👨🏻‍💻 Robotics and Computer Vision
+- 🧠 Advanced deep learning architectures (CNNs, Vision Transformers)
+- 🎯 Real-time object tracking and detection systems
+- 🔧 Edge AI and model optimization techniques
 
 ### 📈 GitHub Stats
 
