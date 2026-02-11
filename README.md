@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Zamiul Rashid</h1>
 
 <p align="center">
-  I am a 2nd year Computer science student, computer vision nerd, an open-source enthusiast, and a lifelong learner.
+  I am a 3rd year Computer Science student, computer vision nerd, and an open-source enthusiast.
 </p>
 
 <p align="center">
@@ -27,7 +27,17 @@
 
 ### 📈 GitHub Stats
 
-[![Zamiul Rashid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zamiul-rashid&show_icons=true&theme=catppuccin_mocha)](https://github.com/Zamiul-rashid)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zamiul-rashid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zamiul-rashid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zamiul-rashid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 
 ### 📬 Get in Touch
