@@ -5,11 +5,23 @@
     If it helped, a follow would be lovely — or say hi on LinkedIn @zamiul-rashid
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zamiul%20Rashid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Vision%20%2B%20Robotics%20%7C%20Homelab%20Operator&descAlignY=52&descSize=18" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=7AA2F7&width=600&lines=Hello%2C+it's+Zamiul+Rashid;Computer+Vision+%26+Robotics;Homelab+Operator" alt="Computer Vision and Robotics"/>
-</a>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer at work"/>
+  <br><br>
+  <a href="https://github.com/Zamiul-rashid?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Zamiul-rashid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers"/>
+  </a>
+  <a href="https://github.com/Zamiul-rashid?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Zamiul-rashid?color=55960c&style=for-the-badge&labelColor=488207&logo=star" alt="stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Zamiul-rashid&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <br><br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&duration=4000&pause=600&color=6C63FF&center=true&vCenter=true&width=600&lines=Hello%2C+it's+Zamiul+Rashid;Computer+Vision+%26+Robotics;Homelab+Operator" alt="Computer Vision and Robotics"/>
+  </a>
+</div>
 
 <!--
     Want a terminal GIF like the cool kids? -> https://www.terminalgif.com
@@ -107,6 +119,9 @@ Vision Transformers · real-time tracking at the edge · quantization and distil
 ### Connect with me
 
 <div>
+  <a href="https://about.zamiulrashid.online">
+    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/zamiul-rashid-09a178223">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -133,18 +148,32 @@ Vision Transformers · real-time tracking at the edge · quantization and distil
 
 ### GitHub stats
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zamiul-rashid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zamiul-rashid&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Langs"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zamiul-rashid&theme=tokyonight" alt="GitHub Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zamiul-rashid&theme=tokyonight" alt="Top Languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zamiul-rashid&theme=algolia&hide_border=true&background=0D1117&stroke=0000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Streak"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zamiul-rashid&theme=github_dark" alt="Contribution Graph"/>
+</p>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Zamiul-rashid&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<!--
+     The snake eats my contribution graph. Redrawn every 12h by .github/workflows/snake.yml
+-->
 
-</div>
+### Contributions
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer" alt="footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zamiul-rashid/Zamiul-rashid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zamiul-rashid/Zamiul-rashid/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Zamiul-rashid/Zamiul-rashid/output/github-snake-dark.svg" />
+</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer"/>
 
 <!--
      Thanks for stopping by <3
